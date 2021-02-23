@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there 👋
-> You are here because you have something that we can do together.
-> I build products, I solve problems, I am a polymath.
-> I am Daggie, a fullstack software engineer, product hacker, and lots more.
+> You are here because you have something that we can do together.<br/>
+> I build products, I solve problems, I am a polymath.<br/>
+> I am Daggie, a fullstack software engineer, product hacker, and lots more.<br/>
 
 ### Find Me On:
 - 🐦 Twitter: [@daggieblanqx](https://twitter.com/daggieblanqx)
