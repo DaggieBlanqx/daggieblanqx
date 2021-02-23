@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DaggieBlanqx/daggieblanqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there 👋
-> You are here because you have something that we can do together.<br/>
-> I build products, I solve problems, I am a polymath.<br/>
-> I am Daggie, a fullstack software engineer, product hacker, and lots more.<br/>
+> You are here because you have something that we can do together.
+> I build products, I solve problems, I am a polymath.
+> I am Daggie, a fullstack software engineer, product hacker, and lots more.
 
 ### Find Me On:
 - 🐦 Twitter: [@daggieblanqx](https://twitter.com/daggieblanqx)
 - 📖 Stackoverflow: [@daggieblanqx](https://stackoverflow.com/users/7878987/daggie-blanqx-douglas-mwangi)
 - 📝✍ Articles on Decoded Africa: [@daggieblanqx](https://developers.decoded.africa/?s=daggieblanqx)
 
-<img src="https://github-readme-stats.vercel.app/api?username=daggieblanqx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=daggieblanqx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true" />
