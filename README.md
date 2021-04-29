@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 > You are here because you have something that we can do together.<br/>
 > I build products, I solve problems, I am a polymath.<br/>
 > I am Daggie, a fullstack software engineer, product hacker, and lots more.<br/>
+> What's more? In my spare time I love hacking into my own devices,... when I am away from a computer, I like brainstorming on what to build next. I also do bike-riding.
+> I am mostly an INTP-A.
 
 ### Find Me On:
 - 🐦 Twitter: [@daggieblanqx](https://twitter.com/daggieblanqx)
