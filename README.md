@@ -163,16 +163,9 @@ What's more?
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact" /></div>  
-
-<br/>  
-
-
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact)]]
-
 
 <div>
-  
+### Previosly streamed on spotify: 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true" target="_blank">
 <img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact alt=medium style="margin-bottom: 5px;" />
 </a>  
