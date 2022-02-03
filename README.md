@@ -171,6 +171,8 @@ What's more?
  
 <br/>  
  
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=daggieblanqx&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
 <br/>  
   
 ----
