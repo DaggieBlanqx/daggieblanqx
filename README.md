@@ -168,7 +168,15 @@ What's more?
 <br/>  
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact)]]
 
+
+<div>
+  
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true" target="_blank">
+<img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
