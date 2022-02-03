@@ -161,6 +161,11 @@ What's more?
 
 <br/>  
 
+<br/>  
+
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact" /></div>  
+
+<br/>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
