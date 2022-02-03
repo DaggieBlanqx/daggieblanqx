@@ -170,17 +170,7 @@ What's more?
 ### https://developers.decoded.africa/index.php/2020/06/21/automating-tenders-with-africas-talking-api/  
  
 <br/>  
-  
-<br/>
-
-----
-## Previously streamed on spotify: 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&redirect=true" target="_blank">
-<img src=https://spotify-github-profile.vercel.app/api/view.svg?uid=31sixs5zi3ydlpztgsj7ejt2th3e&cover_image=true&theme=compact alt=medium style="margin-bottom: 5px;" />
-</a>  
-
-<br/>  
-  
+ 
 <br/>  
   
 ----
