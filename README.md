@@ -25,13 +25,13 @@
 </div>  
   
 
-### <div align="center">I am Daggie, a full-time full-stack freelance developer 👨‍💻 with 6+ years of experience 🚀</div>  
+### <div align="center">I am Daggie, a full-time full-stack software engineer 👨‍💻 with 6+ years of experience🚀</div>  
   
 
-- 🌱 I’m currently learning Kotlin and Swift  
+- 🌱 I’m currently learning Kotlin and Swift.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
 
 - ⚡ Weird fact: I am yet to watch 'Game Of Thrones'.  
