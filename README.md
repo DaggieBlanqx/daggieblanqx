@@ -1,3 +1,5 @@
+
+
 #### Quick glance:
 
 <div>
@@ -163,6 +165,11 @@ What's more?
 
 <br/>  
 
+
+## Wakatime Stats
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@daggieblanqx/808b1e0b-913f-45f3-b496-304a5732a537.png" /></a>
+
+<br/>
 
 ## Recent Blog Posts  
 
