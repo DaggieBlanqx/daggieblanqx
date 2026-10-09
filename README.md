@@ -27,7 +27,7 @@
 </div>  
   
 
-### <div align="center">I am Daggie, a full-stack software engineer 👨‍💻 with 9 years of experience🚀</div>  
+### <div align="center">I am Daggie, a full-stack software engineer 👨‍💻 with 10 years of experience🚀</div>  
   
 
 - 🌱 I’m currently learning Kotlin and Swift.
